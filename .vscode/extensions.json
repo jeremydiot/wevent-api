@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "sonarsource.sonarlint-vscode",
+      "vscjava.vscode-java-pack",
+      "aaron-bond.better-comments",
+      "redhat.vscode-xml",
+      "ms-azuretools.vscode-docker"
+    ]
+}
